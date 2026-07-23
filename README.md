@@ -12,3 +12,8 @@ websocket，speech API，koboldcpp
 不过还是要注意这个不代表项目的终极形态
 
 对话肯定llm处理完之后再请求这个tts接口，两个端口
+
+## 技术文档
+需要的web API audio image text
+动态文本生成
+
